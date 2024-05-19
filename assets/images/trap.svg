@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="475px" height="450px" viewBox="0 0 475 450">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="63.625" y1="137.51250000000002" x2="417.475" y2="441.0875" spreadMethod="pad">
+<stop  offset="0%" stop-color="#262F40"/>
+
+<stop  offset="100%" stop-color="#15191F"/>
+</linearGradient>
+
+<g id="Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 466.5 88.3
+Q 456.85 70.35 438.4 67.35
+L 61.05 5.9
+Q 35.7 1.75 19.45 18.65 3.3 35.2 6.2 61.95
+L 43.9 412.1
+Q 45.5 427.2 59.65 437.75 73.35 447.9 91.2 447.95
+L 368.5 448
+Q 382.6 447.95 394.4 439.05 406.2 430 409.05 416.95
+L 471.25 126.85
+Q 475.8 105.6 466.5 88.3 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#B1B1B1" stroke-width="0.8" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 61.05 5.9
+L 438.4 67.35
+Q 456.85 70.35 466.5 88.3 475.8 105.6 471.25 126.85
+L 409.05 416.95
+Q 406.2 430 394.4 439.05 382.6 447.95 368.5 448
+L 91.2 447.95
+Q 73.35 447.9 59.65 437.75 45.5 427.2 43.9 412.1
+L 6.2 61.95
+Q 3.3 35.2 19.45 18.65 35.7 1.75 61.05 5.9 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+</svg>
